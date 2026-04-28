@@ -133,3 +133,4 @@ contract HotTakeBattle {
         totalPrizePool += msg.value;
     }
 }
+#[block:45298902 txIndex:158]from: 0x7C6...22450to: HotTakeBattle.(constructor)value: 0 weidata: 0x608...20033logs: 0hash: 0x2d9...5abd9
