@@ -134,3 +134,4 @@ contract HotTakeBattle {
     }
 }
 #[block:45298902 txIndex:158]from: 0x7C6...22450to: HotTakeBattle.(constructor)value: 0 weidata: 0x608...20033logs: 0hash: 0x2d9...5abd9
+transaction hash	0x2a460565f53e780708cc8c01f36c42ac5c2f4bbef0e18e2a04188ff1db3ed569
